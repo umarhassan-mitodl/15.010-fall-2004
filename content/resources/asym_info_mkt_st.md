@@ -5,6 +5,8 @@ description: 'This resource includes: Bargaining Games, The Lemons Problem, Adve
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/051080ea22fe8e1bb9ab5fb60e2ee335_asym_info_mkt_st.pdf
 file_size: 70148
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

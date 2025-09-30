@@ -5,6 +5,8 @@ description: Review of Consumer and Producer Surplus, Government Intervention, D
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/87e7046e36439a3ead409368d9bdb48e_surplus_anal_gov.pdf
 file_size: 274025
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

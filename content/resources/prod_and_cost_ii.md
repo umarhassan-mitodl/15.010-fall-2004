@@ -4,6 +4,8 @@ description: Opportunity Costs in Practice, Economies of Scale and Scope.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/94280b7a0146c1f69c8c9f574dac0977_prod_and_cost_ii.pdf
 file_size: 175654
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

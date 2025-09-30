@@ -4,6 +4,8 @@ description: Consumer Surplus and the Sweetener Quota Analysis.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/1e808a9298af0008040ccce0602cb8f0_sugar_surplus.pdf
 file_size: 82863
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

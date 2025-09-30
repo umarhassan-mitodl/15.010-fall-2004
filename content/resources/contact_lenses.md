@@ -4,6 +4,8 @@ description: Lecture Notes File.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/03cd0fd2548b11645a3848de81c1dc5b_contact_lenses.pdf
 file_size: 13383
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

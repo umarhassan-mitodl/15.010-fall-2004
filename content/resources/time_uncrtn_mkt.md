@@ -5,6 +5,8 @@ description: Basics of Present Value, Uncertainty and Risk Aversion, Option Valu
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/235c362b58425d779647029a7566a587_time_uncrtn_mkt.pdf
 file_size: 198320
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

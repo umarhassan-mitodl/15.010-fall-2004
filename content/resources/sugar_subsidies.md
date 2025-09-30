@@ -4,6 +4,8 @@ description: Article on "How an Addiction To Sugar Subsidies Hurts Development."
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/de255ed7b90ab1f53227f4ae7ce217d9_sugar_subsidies.pdf
 file_size: 166203
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

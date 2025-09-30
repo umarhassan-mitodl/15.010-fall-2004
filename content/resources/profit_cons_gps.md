@@ -4,6 +4,8 @@ description: Profit Graph.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/9cc693bd42039e852d1739eb2d3a1436_profit_cons_gps.pdf
 file_size: 43226
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: 'Conditions for Applying Price Discrimination, Perfect Price Discri
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/4b40fe475dcd2420bb403352af81e2b8_prc_disc_and_tar.pdf
 file_size: 278213
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

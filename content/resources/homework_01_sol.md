@@ -4,6 +4,8 @@ description: This resource includes solutions for assignment 1.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/7cbb485561b640c52b174049bdb212d4_homework_01_sol.pdf
 file_size: 124543
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

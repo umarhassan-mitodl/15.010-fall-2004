@@ -4,6 +4,8 @@ description: This resource includes common mistakes for Assignment 6.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/1210842cb1b5bc3847565113564bceb3_06_cmn_mistakes.pdf
 file_size: 102682
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

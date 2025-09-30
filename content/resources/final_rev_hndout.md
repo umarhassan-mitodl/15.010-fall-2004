@@ -5,6 +5,8 @@ description: Two-part Tariffs, Bundling, Pricing, Transfer Pricing, Asymmetric I
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/a4688f6a19a63881cb4edeeee352601c_final_rev_hndout.pdf
 file_size: 378049
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Problem on game theory.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/e279f8cfb86026e688fb029fe220ee33_gm_thry_crnot_qs.pdf
 file_size: 89341
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: The Production Function, Economic Cost and User Cost of Capital, Co
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/bdb23d916d9e06cdce7a6376c4b6ea49_pro_and_cost_con.pdf
 file_size: 226352
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
