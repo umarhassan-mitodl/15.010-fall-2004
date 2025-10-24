@@ -4,8 +4,6 @@ description: Lecture Notes File.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/b393263eb3f8f80deee54e9701e75a2e_wlmrt_cstco_war.pdf
 file_size: 14654
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

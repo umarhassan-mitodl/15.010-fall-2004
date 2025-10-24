@@ -4,8 +4,6 @@ description: Questions for Case Discussion.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/44a5a9ebacb7bc2d6b0fd76a2e98f099_uk_crdt_crd_case.pdf
 file_size: 15115
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

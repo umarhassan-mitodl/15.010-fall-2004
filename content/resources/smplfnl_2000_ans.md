@@ -4,8 +4,6 @@ description: This resource includes solutions for Final Exam-2000.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/e3d65eaf6a2466712fd86935fb3114f1_smplfnl_2000_ans.pdf
 file_size: 146268
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

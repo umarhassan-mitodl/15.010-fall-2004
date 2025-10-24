@@ -4,8 +4,6 @@ description: Two part Tariffs, Volume Pricing and Bundling.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/59c994d45b41d6c4bda976ae40643d6a_Lecture_11__10_28_04__Presentation_Handout__Pricing_with_Market_Power_II.pdf
 file_size: 44927
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

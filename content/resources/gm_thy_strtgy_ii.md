@@ -5,8 +5,6 @@ description: 'Overview: Fun and Games with Bidding Situations, Threats and commi
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/46a5c7bf9a85b441e5feba5590d1d31f_gm_thy_strtgy_ii.pdf
 file_size: 362551
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

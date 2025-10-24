@@ -5,8 +5,6 @@ description: 'Case Discussion: Outsourcing Sales, Specialization and Comparative
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/ddab135f53438ae34741de7438d2cd64_incentives_emply.pdf
 file_size: 57728
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

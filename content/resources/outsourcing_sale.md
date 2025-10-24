@@ -4,8 +4,6 @@ description: Handout on "Outsourcing Sales."
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/47a7be586cea5689ec4e6e12cfe97fe3_outsourcing_sale.pdf
 file_size: 17181
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

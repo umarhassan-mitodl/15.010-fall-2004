@@ -5,8 +5,6 @@ description: Competitive Equilibrium, Profit Maximization, Monopoly, Coordinatio
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/f953bfcd8322b6f9971eadeb8d44d29e_market_power.pdf
 file_size: 74015
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

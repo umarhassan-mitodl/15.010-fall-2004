@@ -4,8 +4,6 @@ description: Lecture Notes File.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/e48f9de8fbd786907a5339dd6d19237b_transfer_pricing.pdf
 file_size: 12421
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

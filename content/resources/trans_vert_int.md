@@ -4,8 +4,6 @@ description: Framework and Economic Principles, Cases Considered, Vertical Integ
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/4678c1744e47662b9b0c358f82760c5e_trans_vert_int.pdf
 file_size: 73714
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

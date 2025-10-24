@@ -5,8 +5,6 @@ description: Asymmetric Information, Numeric Example on Comparative Advantage, T
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/0716d283a050ce4bdc9d4d6837f1a1d3_inf_asym_tra_prc.pdf
 file_size: 242119
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

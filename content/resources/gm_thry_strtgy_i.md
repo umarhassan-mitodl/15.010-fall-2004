@@ -4,8 +4,6 @@ description: 'Overview: Fun and Games with a Duopoly Example, Review of the Anal
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/c8b9e936d646b4930c350fcc0cab15f8_gm_thry_strtgy_i.pdf
 file_size: 75762
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

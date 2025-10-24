@@ -6,8 +6,6 @@ description: Market Definition, Supply/Demand, Elasticities, Government Policies
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/92cbfbc959834e5477a5dad507df5e68_midterm_review.pdf
 file_size: 694021
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

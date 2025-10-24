@@ -4,8 +4,6 @@ description: This resource includes 5 questions.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/6b652dcd8a34e4b69a7a8d55802a7dcb_sample_mdtrm2002.pdf
 file_size: 162132
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

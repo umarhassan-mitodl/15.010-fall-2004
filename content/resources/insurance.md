@@ -4,8 +4,6 @@ description: Lecture Notes File.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/d6760920b63ef88025fc74852e7fbd32_insurance.pdf
 file_size: 12642
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: Game Theory Definitions, The Cournot Model, The Stackelberg Model, 
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/807ba86e100d349ef73c294b9e720931_the_bsc_game_thy.pdf
 file_size: 254773
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

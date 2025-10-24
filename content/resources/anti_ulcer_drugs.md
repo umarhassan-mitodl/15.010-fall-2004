@@ -4,8 +4,6 @@ description: Graphs showing the demand of Anti-Ulcer Drugs.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/7f8acb5c0f9d9730fb6ee646594b4371_anti_ulcer_drugs.pdf
 file_size: 176506
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

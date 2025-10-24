@@ -4,8 +4,6 @@ description: Article on "For the Asking, a $480 seat."
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/474abb767d585184be799a9f69e278cb_web_game_the_tic.pdf
 file_size: 188309
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

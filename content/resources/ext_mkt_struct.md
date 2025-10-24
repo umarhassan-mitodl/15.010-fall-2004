@@ -5,8 +5,6 @@ description: Effects of Production/Consumption not reflected in Market Transacti
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/79c2fdd5181103f93735edaa20595305_ext_mkt_struct.pdf
 file_size: 53881
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
