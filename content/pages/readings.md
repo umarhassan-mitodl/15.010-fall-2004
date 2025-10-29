@@ -366,18 +366,18 @@ Final Examination
 
 ## {{< anchor "read" >}}{{< /anchor >}}Current Events Readings
 
-Lieber, Ron. "Credit-Card Companies Escalate Battle of the Perks." [_The Wall Street Journal Online_](http://online.wsj.com/), 14 September 2004.
+Lieber, Ron. "Credit-Card Companies Escalate Battle of the Perks." {{% resource_link "6d86d05e-cdb0-49b9-b148-3f1b69f0b8b4" "_The Wall Street Journal Online_" %}}, 14 September 2004.
 
-Cox, James. "Some see Bush sheltering sugar for votes." [_USAToday.com_](http://usatoday.com/), 10 February 2004.
+Cox, James. "Some see Bush sheltering sugar for votes." {{% resource_link "ec7dbf69-313e-4839-88de-2f615270d6dc" "_USAToday.com_" %}}, 10 February 2004.
 
-Waddington, Richard. "WTO Hits EU Again Over Sugar Sales." [_Yahoo! News_](http://news.yahoo.com/), 8 September 2004.
+Waddington, Richard. "WTO Hits EU Again Over Sugar Sales." {{% resource_link "334ca42a-26c3-458f-9836-097eed1d14c2" "_Yahoo! News_" %}}, 8 September 2004.
 
-Shlaes, Amity. "More PDA Pleasures for Your dollar." [_FT.com: Financial Times_](http://news.ft.com/), 20 September 2004.
+Shlaes, Amity. "More PDA Pleasures for Your dollar." {{% resource_link "2bbb2a1b-bf9c-4408-99a8-ec057932def6" "_FT.com: Financial Times_" %}}, 20 September 2004.
 
-Carty, Sharon Silke. "GM to Start Loan Blitz for '04 Models." [_The Wall Street Journal Online_](http://online.wsj.com/), 22September 2004.
+Carty, Sharon Silke. "GM to Start Loan Blitz for '04 Models." {{% resource_link "6d86d05e-cdb0-49b9-b148-3f1b69f0b8b4" "_The Wall Street Journal Online_" %}}, 22September 2004.
 
-Markoff, John. "Sun Alters Its Pricing Strategy For Sales to Developing Nations." Business/Financial Desk, [_The New York Times_](http://www.nytimes.com/), 1 June 2004.
+Markoff, John. "Sun Alters Its Pricing Strategy For Sales to Developing Nations." Business/Financial Desk, {{% resource_link "7780b8dd-0b41-477a-84a6-d5e766cde909" "_The New York Times_" %}}, 1 June 2004.
 
-Guth, Robert A. "Microsoft Tests Low-Price Windows." [_The Wall Street Journal Online_](http://online.wsj.com/), 30 September 2004.
+Guth, Robert A. "Microsoft Tests Low-Price Windows." {{% resource_link "6d86d05e-cdb0-49b9-b148-3f1b69f0b8b4" "_The Wall Street Journal Online_" %}}, 30 September 2004.
 
-Kranhold, Kathryn. "Nuclear-Power Industry Sees Signs of a U.S. Revival." [_The Wall Street Journal Online_](http://online.wsj.com/), 9 November 2004.
+Kranhold, Kathryn. "Nuclear-Power Industry Sees Signs of a U.S. Revival." {{% resource_link "6d86d05e-cdb0-49b9-b148-3f1b69f0b8b4" "_The Wall Street Journal Online_" %}}, 9 November 2004.
